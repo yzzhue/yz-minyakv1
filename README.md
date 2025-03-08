@@ -1,9 +1,6 @@
-MINIMAL BISA KODING
-MINIMAL BISA NGE RAWR
-MINIMAL BISA NGEROLEPLAY
-MINIMAL BISA TIDUR
- 
- 
+
+gak tau script lawas gaush dipake cmn test doang 
+
  
  ['minyak'] = {
 		label = 'Minyak',
